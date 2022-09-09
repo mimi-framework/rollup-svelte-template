@@ -1,0 +1,15 @@
+node_modules/
+
+yarn-error.log
+.pnpm-debug.log
+
+.idea/
+.history/
+
+dist/
+
+
+es/
+lib/
+
+types/
